@@ -1,0 +1,212 @@
+.center{
+    text-align: center;
+    background-image: url(SILLON\ HOMER\ PORTADA.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120vh;
+    width: 210vh;
+}
+.empezar{
+    background-image: url(homero\ dormido.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 220vh;
+}
+.viajeauto{
+    background-image: url(homeroauto.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 2500vh;
+}
+button{
+    height: 10vh;
+    background-color: goldenrod;
+    color: aliceblue;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+button:hover{
+    background-color: white;
+    color: pink;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+body{
+    background-color: yellow;
+}
+.hori{
+    display: block;
+    justify-content: center;
+    
+}
+
+h1{
+   height: 7vh;
+    background-color: skyblue;
+    width: 33vw;
+    border-radius: 100px;
+    text-align: center;
+    
+
+}
+
+.titulo{
+    width: 85vw;
+    display: flex;
+    justify-content: center;
+    height: 45vh;
+    
+
+
+}
+
+.botones{
+width: 85vw;
+display: flex;
+justify-content: space-evenly;
+
+
+}
+
+.auto {
+    
+    background-image: url(homeroauto.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    height: 95vh;
+    width: 200vh;
+   
+}
+
+
+.cama {
+
+    background-image: url(siesta.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    height: 100vh;
+    width: 220vh;
+
+
+}
+
+.desayuno {
+
+    background-image: url(homero\ heladera.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    height: 100vh;
+    width: 220vh;
+
+}
+
+.desayuno2 {
+
+    background-image: url(cocina.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    height: 100vh;
+    width: 220vh;
+
+
+
+}
+
+.tele {
+
+    background-image: url(tele.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    height: 100vh;
+    width: 220vh;
+
+
+}
+
+.sillon {
+
+    background-image: url(homerosillondormido.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    height: 100vh;
+    width: 220vh;
+
+}
+
+.trabajo {
+
+    background-image: url(trabajo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    height: 100vh;
+    width: 210vh;
+
+
+    
+}
+
+.robot {
+
+    background-image: url(reemplazo.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    height: 100vh;
+    width: 210vh;
+
+
+
+}
+
+
+.comidatrabajo {
+
+    background-image: url(comidatrabajo.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    height: 100vh;
+    width: 220vh;
+
+
+
+
+}
+
+.despido {
+
+    background-image: url(depsido2.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    height: 100vh;
+    width: 210vh;
+
+
+
+}
+
+.despido2 {
+
+    background-image: url(homerollorando.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    height: 100vh;
+    width: 210vh;
+}
+
+
